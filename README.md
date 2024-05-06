@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--🔭 I’m currently working on Backend Development
+-🔭 I’m currently working on AI Engineer
 -📫 How to reach me: [Check MY Portfolio website](https://portfoliolive-vipul.web.app/)
 
 [![An image of @primehunter's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/primehunter)](https://holopin.io/@primehunter)
