@@ -21,9 +21,7 @@ Hi there! 👋<br>🔭 I’m currently working on<br>AI-based agent creation and
 ---
 [![](https://visitcount.itsvg.in/api?id=PrimeRoxy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
--🔭 I’m currently working on AI Engineer
+
 -📫 How to reach me: [Check MY Portfolio website](https://portfoliolive-vipul.web.app/)
 
 [![An image of @primehunter's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/primehunter)](https://holopin.io/@primehunter)
